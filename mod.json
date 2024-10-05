@@ -7,5 +7,8 @@
 	"name": "Linux File Picker",
 	"version": "v1.0.0",
 	"developer": "Relative",
-	"description": "Linux File Picker is a mod which opens native Linux file picker on your system, not a Wine Explorer"
+	"description": "Linux File Picker is a mod which opens native Linux file picker on your system, not a Wine Explorer",
+	"links": {
+		"source": "https://github.com/relativemodder/gd-linux-file-picker"
+	}
 }

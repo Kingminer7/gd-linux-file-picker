@@ -1,4 +1,4 @@
-# LinuxFilePicker
+# Linux File Picker
 
 Mod which uses **kdialog**, **zenity**, or **yad** to open a file picker dialog.
 

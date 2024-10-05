@@ -1,0 +1,11 @@
+{
+	"geode": "3.8.1",
+	"gd": {
+		"win": "2.206"
+	},
+	"id": "relative.linux_file_picker",
+	"name": "Linux File Picker",
+	"version": "v1.0.0",
+	"developer": "Relative",
+	"description": "Linux File Picker is a mod which opens native Linux file picker on your system, not a Wine Explorer"
+}

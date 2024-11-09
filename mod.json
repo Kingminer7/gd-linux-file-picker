@@ -1,7 +1,7 @@
 {
-	"geode": "3.8.1",
+	"geode": "3.9.0",
 	"gd": {
-		"win": "2.206"
+		"win": "*"
 	},
 	"id": "relative.linux_file_picker",
 	"name": "Linux File Picker",
